@@ -1,0 +1,26 @@
+body {
+  background: white;
+  margin:100px;
+  margin-top:50px;
+}
+p {
+  color: black;
+}
+.Inner {
+  font-family: georgia;
+  text-align: justify;
+}
+h1 {
+  font-weight: bold;
+  font-size: 40;
+  text-align: left
+}
+h2 {
+ font-size: 28;
+ padding-top: 25px;
+ padding-bottom:5px;
+}
+h3 {
+  font-size: 14;
+  font-style: italic;
+}
